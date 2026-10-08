@@ -5,7 +5,7 @@ In this repository, we apply time series econometrics to financial markets.
 
 ### Following methods will be used:
 - **AutoRegressive Integrated Moving Average (ARIMA)** (done)
-- **Generalized Autoregressive Conditional Heteroskecasticity (GARCH)** (done)
+- **Generalized Autoregressive Conditional Heteroskecasticity (GARCH)** (in progress)
 - **Vector Autoregression (VAR)** (in progress)
 - **XGBoost (Gradient Tree Boost)** (in progress)
 ...
