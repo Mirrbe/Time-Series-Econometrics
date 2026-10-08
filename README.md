@@ -3,8 +3,9 @@ github.com/Mirrbe/Time-Series-Econometrics is part of my personal portfolio of d
 
 In this repository, we apply time series econometrics to financial markets. 
 
-### We will be using following methods:
+### Following methods will be used:
 - **AutoRegressive Integrated Moving Average (ARIMA)**
+- **Generalized Autoregressive Conditional Heteroskecasticity (GARCH)**
 - **Vector Autoregression (VAR)**
 - **XGBoost (Gradient Tree Boost)**
 ...
